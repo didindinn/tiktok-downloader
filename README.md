@@ -1,4 +1,4 @@
-# TikTok video Downloader
+# TikTok Video Downloader
 
 ## How to install
 
